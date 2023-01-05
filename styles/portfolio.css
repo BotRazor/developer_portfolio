@@ -8,6 +8,15 @@ nav{
     justify-content:space-between;
     margin: 50px 200px;
 }
+
+.btn-primary{
+    height: 64px;
+    border-radius: 5px;
+}
+
+.text-primary{
+    color: chocolate;
+}
 /* header & navigation Styles */
 .nav-title{
     font-weight: 800;
@@ -20,7 +29,3 @@ nav li{
     list-style: none;
     margin-left: 50px;
 
-}
-.text-primary{
-    color: chocolate;
-}
